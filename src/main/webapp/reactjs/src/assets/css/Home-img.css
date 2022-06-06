@@ -1,0 +1,35 @@
+.jumbotron {
+    position: relative;
+    display: inline-block;
+}
+
+.jumbotron .home-img {
+    height: 350px;
+    width: 100%;
+    margin-top: 10%;
+    opacity: 0.3;
+}
+
+.jumbotron .home-text {
+    margin: 0 5px;
+    top: 10px;
+    width: 100%;
+    position: absolute;
+}
+
+.jumbotron .home-text .lead {
+    margin: 0 5px;
+    top: 10px;
+    width: 100%;
+    font-size: 30px;
+}
+
+.jumbotron .home-text .btn {
+    margin: 0 40px;
+    top: 10px;
+}
+
+.k {
+    text-align: center;
+}
+
